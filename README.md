@@ -21,7 +21,7 @@ Practiced by over 300 million people, yoga is the discipline through which one m
        label="OM" 
        description="artwork" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/om.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/om.JPG">.ve-media
        
 ## Map
 
