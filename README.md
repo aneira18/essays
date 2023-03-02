@@ -35,7 +35,7 @@ Yoga originated in ancient India.  The earliest evidence of yoga lies with the I
        description="artwork" 
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/best%20eye.jpg">
-       
+     
 # PURPOSE
 The purpose of yoga is not for inner peace, physical exercise, or flexiblity.  It is to elevate your consciousness in order to become one with the divine, or Higher Self, and to break the cycle of Samsara, or cyclic existence.  The history of humanity can be broken down into four yugas, or stages of human existence, which repeat cyclically.  In the first yuga, or Satya yuga, humanity is full of virture, love, purity, and devotion.  In the second yuga, or Treta yuga, there is a decline in these values and in the condition of the world.  In the third yuga, or Dvapara yuga, there is another decline.  Lastly, in the fourth yuga or Kali yuga, there is another decline.  Humanity is in its lowest state, living in the ego rather than living in the soul.  There is wide-scale suffering and confusion, with people chasing temporary pleasures rather than everlasting bliss.  This is the yuga we are living in currently.
 However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is the cycle of rebirth.  When one dies, depending on the karma accumulated throughout their lifetime, they may elevate or be reborn into a new incarnation.  By elevate, I mean that they may live on in the higher spiritual realms where they will continue to learn about the universe and grow until they attain oneness with the divine Creator.  Through the yogic path, one may break free of the cycle of Samsara and attain the higher spiritual planes of existence.  
